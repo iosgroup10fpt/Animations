@@ -251,6 +251,12 @@ class ViewController: UIViewController {
             RandomQuestion()
             Hide()
         }
+        else{
+            numberQuestion = 0
+            numberQuestion += 1
+            RandomQuestion()
+            Hide()
+        }
     }
 
 
